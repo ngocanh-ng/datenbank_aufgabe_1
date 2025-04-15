@@ -8,3 +8,6 @@ Die Liste soll die Artikelbezeichnung, den Lagerbestand und den Lieferanten enth
 
 # Erweiterung
 Verwalten Sie die Abfrage in einer Liste, die Objekte enthält. Gestalten Sie eine grafische Oberfläche.
+
+# Screenshot
+<img width="909" alt="1" src="https://github.com/user-attachments/assets/1bdacfff-7926-4b4f-b0b1-6b5f0acb9dfd" />
